@@ -1,2 +1,2 @@
 [tools]
-deno = "latest"
+"aqua:denoland/deno" = "latest"
