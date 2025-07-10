@@ -1,2 +1,4 @@
 [tools]
 "aqua:denoland/deno" = "latest"
+"aqua:pnpm" = "latest"
+node = "lts"
