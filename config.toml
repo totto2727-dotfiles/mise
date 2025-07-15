@@ -7,7 +7,6 @@ node = "lts"
 "npm:@devcontainers/cli" = "latest"
 "npm:@google/gemini-cli" = "latest"
 rust = "latest"
-"cargo:xremap" = { version = "latest", feature = "gnome"}
 
 [settings]
 experimental = true
