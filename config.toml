@@ -4,8 +4,10 @@
 go = "latest"
 node = "lts"
 "npm:@antfu/ni" = "latest"
+"npm:@anthropic-ai/claude-code" = "latest"
 "npm:@devcontainers/cli" = "latest"
 "npm:@google/gemini-cli" = "latest"
+"npm:turbo" = "latest"
 rust = "latest"
 
 [settings]
