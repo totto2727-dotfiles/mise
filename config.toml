@@ -1,4 +1,5 @@
 [tools]
+"aqua:astral-sh/uv" = "latest"
 "aqua:denoland/deno" = "latest"
 "aqua:pnpm" = "latest"
 go = "latest"
