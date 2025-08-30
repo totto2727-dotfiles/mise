@@ -12,6 +12,7 @@ node = "lts"
 rust = "latest"
 "aqua:pulumi/pulumi" = "latest"
 "aqua:pulumi/esc" = "latest"
+"aqua:aws-cli" = "latest"
 
 [settings]
 experimental = true
