@@ -13,6 +13,8 @@ rust = "latest"
 "aqua:pulumi/pulumi" = "latest"
 "aqua:pulumi/esc" = "latest"
 "aqua:aws-cli" = "latest"
+"aqua:oven-sh/bun" = "latest"
+"aqua:go-task/task" = "latest"
 
 [settings]
 experimental = true
