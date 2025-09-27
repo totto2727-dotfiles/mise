@@ -19,3 +19,4 @@ rust = "latest"
 
 [settings]
 experimental = true
+pin = true
