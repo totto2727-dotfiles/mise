@@ -15,6 +15,7 @@ rust = "latest"
 "aqua:aws-cli" = "latest"
 "aqua:oven-sh/bun" = "latest"
 "aqua:go-task/task" = "latest"
+"npm:@aikidosec/safe-chain" = "latest"
 
 [settings]
 experimental = true
