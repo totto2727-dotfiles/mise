@@ -18,6 +18,7 @@ rust = "latest"
 "npm:@aikidosec/safe-chain" = "latest"
 "npm:@ariga/atlas" = "0.37.0"
 "npm:vercel" = "48.1.6"
+"aqua:evilmartians/lefthook" = "1.13.4"
 
 [settings]
 experimental = true
