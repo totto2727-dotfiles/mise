@@ -16,6 +16,7 @@ rust = "latest"
 "aqua:oven-sh/bun" = "latest"
 "aqua:go-task/task" = "latest"
 "npm:@aikidosec/safe-chain" = "latest"
+"npm:@ariga/atlas" = "0.37.0"
 
 [settings]
 experimental = true
